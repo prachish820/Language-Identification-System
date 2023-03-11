@@ -3,8 +3,8 @@
 The repository has codes to develop a LID system using Gaussian mixture 
 models (GMM) and GMM-UBM (universal backgroud model).\
 Please refer to cs699_asgn2.pdf for details about both models and the data to be used.\
-Install the following libraries:\
 \
+**Install the following libraries:**\
 csv (pip install python-csv)\
 librosa (pip install librosa)\
 numpy (pip install numpy)\
